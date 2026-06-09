@@ -8,11 +8,11 @@
 
 ## 🗂️ Inhalte
 
--   50_fish.docx - Druckvorlage für die Fische (50 Fische pro Seite)
--   fb_cover_v3_1090.jpg - Coverbild für die Materialien[^1]
--   Fishy_Business_v2-1.docx - Kurzbeschreibung des Spiels (inkl. Zielgruppe, Ablauf und Lernziele)
--   fishy_busnie\$\$\_v1.pptx - PowerPoint slides (.pptx) für die Durchführung des Spiels protokolls_harvest_game_v1.xlsx
--   protokolls_harvest_game_v1.xlsx - Excel-Tabelle zur Protokollierung der Spielrunden (inkl. Fischbestand, Fangmengen, etc.)
+-   `50_fish.docx` - Druckvorlage für die Fische (50 Fische pro Seite)
+-   `fb_cover_v3_1090.jpg` - Coverbild für die Materialien[^1]
+-   `Fishy_Business_v2-1.docx` - Kurzbeschreibung des Spiels (inkl. Zielgruppe, Ablauf und Lernziele)
+-   `fishy_busnie\$\$\_v1.pptx` - PowerPoint slides (.pptx) für die Durchführung des Spiels
+-   `protokolls_harvest_game_v1.xlsx` - Excel-Tabelle zur Protokollierung der Spielrunden (inkl. Fischbestand, Fangmengen, etc.)
 
 ------------------------------------------------------------------------
 
