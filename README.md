@@ -4,8 +4,6 @@
 
 (Meadows et al., 2016) (Sweeney & Meadows, 2010)
 
-------------------------------------------------------------------------
-
 ## 🗂️ Inhalte
 
 -   `50_fish.docx` - Druckvorlage für die Fische (50 Fische pro Seite)
@@ -13,8 +11,6 @@
 -   `Fishy_Business_v2-1.docx` - Kurzbeschreibung des Spiels (inkl. Zielgruppe, Ablauf und Lernziele)
 -   `fishy_busnie\$\$\_v1.pptx` - PowerPoint slides (.pptx) für die Durchführung des Spiels
 -   `protokolls_harvest_game_v1.xlsx` - Excel-Tabelle zur Protokollierung der Spielrunden (inkl. Fischbestand, Fangmengen, etc.)
-
-------------------------------------------------------------------------
 
 ## 📜 Metadaten
 
@@ -27,8 +23,6 @@
 -   **Version:** v1.0 (XXX)\
 -   **DOI:** XXX
 -   **Keywords:** Commons, Nachhaltigkeit, Game-based Learning, Bildung für nachhaltige Entwicklung, Simulation, Ressourcenmanagement
-
-------------------------------------------------------------------------
 
 ## 🔄 Lizenz & Weiterverwendung
 
@@ -53,6 +47,8 @@ Besonderer Dank gilt den Studierenden und Kolleg\*innen für ihre wertvollen Bei
 Meadows, D. L., Sweeney, L. B., & Martin-Mehers, G. (2016). The climate change playbook: 22 systems thinking games for more effective communication about climate change. Chelsea Green Publishing.
 
 Sweeney, L. B., & Meadows, D. L. (2010). The systems thinking playbook: Exercises to stretch and build learning and systems thinking capabilities (1st edn). Chelsea Green Publ.
+
+---
 
 ## 📝 Anmerkungen
 
