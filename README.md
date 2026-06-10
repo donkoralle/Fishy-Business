@@ -1,6 +1,6 @@
 # 📘 Fishy Busine\$\$ - Eine Umsetzung des Harvest-Spiels
 
-![(Source: Höferl, 2026, CC BY)](fb_cover_v3_1090.jpg){fig-alt="Fishy Busine$$ Cover"}
+![](fb_cover_v3_1090.jpg){fig-alt="Fishy Busine$$ Cover"}
 
 „Fishy Busine\$\$“ ist ein Gruppenspiel (20 bis 30 Schüler\*innen) rund um einen gemeinsamen Fischbestand im Ozean. Es ist eine verinfachte Umsetzung des ursprünglich von Meadows et al. (1993) erdachten "Fish Banks" Spiel. Die Spielmechanik entspricht der des "Harvest"-Spiels (z.B. Meadows et al., 2016; Sweeney & Meadows, 2010). In diesem Spiel übernehmen mehrere Teams die Rolle von Fischereibetrieben und entscheiden in jeder Runde, wie viele Fische sie fangen wollen. Nach jeder Runde regeneriert sich der Fischbestand, jedoch nur bis zu einer Obergrenze von 50 Fischen. Die Spieldynamik macht erlebbar, dass kurzfristiges, übermäßiges Fischen den Bestand schrumpfen lässt und langfristig allen schadet, während Kooperation eine nachhaltige Nutzung ermöglicht.
 
