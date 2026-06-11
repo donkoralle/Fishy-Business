@@ -58,5 +58,3 @@ Meadows, D. L., Sweeney, L. B., & Martin-Mehers, G. (2016). The climate change p
 Meadows, D. L., Fiddaman, T., & Shannon, D. (1993). *Fish Banks, LTD - G*ame Administrator’s and  Materials Manuals. University of New Hampshire.
 
 Sweeney, L. B., & Meadows, D. L. (2010). The systems thinking playbook: Exercises to stretch and build learning and systems thinking capabilities (1st edn). Chelsea Green Publishing.
-
-------------------------------------------------------------------------
