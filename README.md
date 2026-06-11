@@ -1,6 +1,6 @@
 # Fishy Busine\$\$ - Eine Umsetzung des Harvest-Spiels
 
-<a href="https://doi.org/10.5281/zenodo.20638316"><img src="https://zenodo.org/badge/1263875374.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/1263875374.svg)](https://doi.org/10.5281/zenodo.20638316)
 
 ![](fb_cover_v3_1090.jpg)
 
